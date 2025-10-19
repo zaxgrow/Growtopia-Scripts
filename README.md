@@ -48,6 +48,6 @@ Bebas digunakan, dimodifikasi, dan dibagikan.
 ## 📬 Kontak & Komunitas
 
 - Discord: `maheza`
-- GitHub: [@maheza](https://discord.gg/Q3uNB7xG29)
+- Join server discord: [@maheza](https://discord.gg/Q3uNB7xG29)
 
 ---
